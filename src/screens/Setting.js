@@ -1,6 +1,11 @@
 import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
 
+
+
+// Break Code in Components
+
+
 const Setting = () => {
   return (
     <View style={{flex: 1, justifyContent: 'center'}}>

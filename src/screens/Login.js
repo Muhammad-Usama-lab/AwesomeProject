@@ -1,6 +1,12 @@
 import {StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import React from 'react';
 
+
+// NOTE: don't use inline styling
+// Break Code in Components
+// Make separate file for styling
+
+
 const Login = ({navigation}) => {
   return (
     <View style={{flex: 1, justifyContent: 'center'}}>
